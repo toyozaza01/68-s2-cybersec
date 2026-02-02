@@ -10,7 +10,7 @@
 cp env.simple .env
 ```
 
-## Runnuing Service
+## Running Service
 
 ### Database
 ```sh
