@@ -1,7 +1,7 @@
 services:
   s2db:  
       image: postgres:latest
-      container_name: s2db
+      container_name: 68-s2-db
       ports:
         - ${DATABASE_PORT}:5432
       environment:
