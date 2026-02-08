@@ -1,7 +1,7 @@
 services:
   s2app:
     image: prawee/strapi:latest
-    container_name: s2app
+    container_name: 68-s2-app
     ports:
       - ${APP_PORT}:1337
     environment:
